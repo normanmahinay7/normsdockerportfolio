@@ -1,0 +1,22 @@
+{
+  "name": "normsdockerportfolio",
+  "version": "1.0.0",
+  "description": "dockerportfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normanmahinay7/normsdockerportfolio.git"
+  },
+  "author": "normanmaslow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normanmahinay7/normsdockerportfolio/issues"
+  },
+  "homepage": "https://github.com/normanmahinay7/normsdockerportfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
